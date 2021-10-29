@@ -1,0 +1,6 @@
+projectKey=Demo2021ACS
+serverUrl=http://localhost:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9000/dashboard?id=Demo2021ACS
+ceTaskId=AXxnTqQ18zLcz-t1io2g
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXxnTqQ18zLcz-t1io2g
